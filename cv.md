@@ -62,3 +62,34 @@ function popElement(arr) {
 ```
 
 ________________________________________________________________________________________________
+
+## Work experience:
+
+**Chief of Aeronavigation Information Office** | ***Kharkiv State Aircraft Manufacturing Company***
+
+November 2017 - up to now | *Ukraine, Kharkiv*
+
+- Mantaining up to date information concerning obstacles and construction works in the vicinity of the airfield
+- Providing current aeronavigation Information to airfield services
+- Disseminating any changes in navigational information to airfield users
+- Providing NOTAM (Notice to Airmen) and PIB (Pre-Flight Information Bulletin) to crew
+
+**First officer Let 410** | ***Kharkiv State Aircraft Manufacturing Company***
+
+November 2004 - November 2017 | *Ukraine, Kharkiv*
+
+- Performing flights
+- Conducting flight documentation
+- Conducting service documentation
+
+**First officer An-2** | ***Air-company «Universal-Avia»***
+
+September 2000 - November 2004 | *Ukraine, Khmelnitsky*
+
+- Performing flights
+- Conducting flight documentation
+- Conducting service documentation
+
+________________________________________________________________________________________________
+
+
