@@ -11,3 +11,13 @@
 
 ________________________________________________________________________________________________
 
+## About myself:
+
+I've been working in aviation industry since 2000.
+
+Initially I worked as a pilot, but I finished my flying career 4 years ago. So I've been providing navigational information since that time. I want to change my profession and look for new opportunities for self-development.
+
+I decide to start my new career as a Front-End Developer, because it's really interesting for me. I want to learn Front-End Development in RSSchool. I hope it'll be the first step for my further development in IT-industry. I’m sure that studying and achievment of goals are possible in any age. Once I've already achieved my lifelong dream to be a pilot, but unfortunately this profession has own age limitation. Without hesitation I'm ready to achieve my new dream to become a proficient Full-Stack Developer.
+
+________________________________________________________________________________________________
+
