@@ -92,4 +92,12 @@ September 2000 - November 2004 | *Ukraine, Khmelnitsky*
 
 ________________________________________________________________________________________________
 
+## Education:
 
+***State Flight Academy of Ukraine***
+
+**Engineer - Pilot**
+
+September 1995 - September 2000 | *Ukraine, Kropivnitsky (Kirovograd)*
+
+________________________________________________________________________________________________
